@@ -1,0 +1,38 @@
+body {
+    font-family:Roboto, sans-serif;
+}
+.navbar{
+background-color:blue;
+}
+.nav .nav-link.active {
+    background-color: #fff;
+    color: blue;
+}
+.nav .nav-link,
+.navbar-brand,
+.navbar-brand:hover {
+    color: #fff;
+}
+.navbar-toggler {
+    background-color: #ffeae6;
+}
+.section-title {
+    font-family: Pacifico, cursive;
+}
+#sobre-o-consultorio {
+    background-color: rgb(198, 198, 212);
+}
+.text-colored {
+    color: blue;
+}
+.social-links li {
+    list-style: none;
+    display: inline;
+}
+.social-links a {
+    text-decoration: none;
+}
+#fale-conosco button {
+    background-color: blue;
+    color:#fff;
+}
